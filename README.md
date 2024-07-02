@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
+<h1 align="left">😎: Hello there! I'm Artur Dotsenk</h1>
 
 <!--
 **MikroTik2/MikroTik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
