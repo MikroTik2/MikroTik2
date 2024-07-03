@@ -2,7 +2,7 @@
 
 <br>
 
-Frontend Developer from Marganets 💥
+Frontend Developer from Marganets ☄️
 
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - :popcorn: &nbsp;My **[Instagram](https://www.instagram.com/artur.dosent28/)**
@@ -160,7 +160,7 @@ Frontend Developer from Marganets 💥
     </td>
       <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" width="36" height="36" alt="ExpressJs" />
+        <img src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original.svg' />" width="36" height="36" alt="ExpressJs" />
       </a>
       <br>Express JS
     </td>
@@ -190,3 +190,12 @@ Frontend Developer from Marganets 💥
     </td>
   </tr> 
 </table>
+
+## ☄️ Contact
+
+- :bird: &nbsp;**[Instagram](https://www.instagram.com/artur.dosent28/)**
+- :airplane: &nbsp;**[Telegram](https://t.me/d16ddd348)**
+- :robot: &nbsp;**[LinkedIn](https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%83%D1%80-%D0%B4%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%BE-0a3a722a1/)**
+- :comet: &nbsp;**[Github](https://github.com/MikroTik2)**
+
+<br>
