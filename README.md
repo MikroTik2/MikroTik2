@@ -158,12 +158,6 @@ Frontend Developer from Marganets ☄️
       </a>
       <br>Nest JS
     </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#d" >
-        <img src="<img src='https://brandeps.com/logo-download/E/Express-logo-vector-01.svg' />" width="36" height="36" alt="ExpressJs" />
-      </a>
-      <br>Express JS
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="#d" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
