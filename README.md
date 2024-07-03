@@ -121,5 +121,11 @@ Frontend Developer from Marganets 💥
       </a>
       <br>Tailwind
     </td>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
   </tr> 
 </table>
