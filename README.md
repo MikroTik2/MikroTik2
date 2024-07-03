@@ -160,7 +160,7 @@ Frontend Developer from Marganets ☄️
     </td>
       <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="<img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png' />" width="36" height="36" alt="ExpressJs" />
+        <img src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg' />" width="36" height="36" alt="ExpressJs" />
       </a>
       <br>Express JS
     </td>
