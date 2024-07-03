@@ -147,3 +147,46 @@ Frontend Developer from Marganets 💥
     </td>
   </tr>
 </table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
+      </a>
+      <br>Nest JS
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" width="36" height="36" alt="ExpressJs" />
+      </a>
+      <br>Express JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr> 
+</table>
