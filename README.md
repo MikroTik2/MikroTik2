@@ -95,31 +95,6 @@ Frontend Developer from Marganets 💥
 
 <table width='100%'>
   <tr>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr> 
-    <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
     </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
@@ -127,5 +102,48 @@ Frontend Developer from Marganets 💥
       </a>
       <br>Vue
     </td>
+   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
   </tr> 
+    <tr>
+   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="shadcn" />
+      </a>
+      <br>shadcn
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="pinia" />
+      </a>
+      <br>pinia
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/axios/axios-plain.svg" width="36" height="36" alt="axios" />
+      </a>
+      <br>axios
+    </td>
+  </tr>
 </table>
