@@ -1,4 +1,4 @@
-<h1 align="left">:sunglasses: Hello there! I'm Artur Dotsenk</h1>
+<h1 align="left">:sunglasses: Hello there! I'm Artur Dotsent</h1>
 
 <br>
 
