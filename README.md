@@ -187,9 +187,9 @@ Frontend Developer from Nikopol' ☄️
 
 ## ☄️ Contact
 
-- :bird: &nbsp;**[Instagram](https://www.instagram.com/artur.dosent28/)**
+- :bird: &nbsp;**[Instagram](https://www.instagram.com/artur.docenko/)**
 - :airplane: &nbsp;**[Telegram](https://t.me/d16ddd348)**
-- :robot: &nbsp;**[LinkedIn](https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%83%D1%80-%D0%B4%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%BE-0a3a722a1/)**
+- :robot: &nbsp;**[LinkedIn](https://www.linkedin.com/in/artur-docenko-0a3a722a1/)**
 - :comet: &nbsp;**[Github](https://github.com/MikroTik2)**
 
 <br>
