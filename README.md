@@ -97,6 +97,13 @@ Frontend Developer from Nikopol' ☄️
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
+      </a>
+      <br>stylelint
+    </td>
   </tr> 
 </table>
 
@@ -111,6 +118,12 @@ Frontend Developer from Nikopol' ☄️
       </a>
       <br>Vue
     </td>
+<td align="center" width="110" height="90">
+  <a href="#nuxt">
+    <img src="https://icon-sets.iconify.design/devicon/nuxtjs.svg" width="36" height="36" alt="Nuxt.js" />
+  </a>
+  <br>Nuxt
+</td>
    <td align="center" width="110" height="90">
       <a href="#d">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
@@ -140,19 +153,19 @@ Frontend Developer from Nikopol' ☄️
       <a href="#d">
         <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="shadcn" />
       </a>
-      <br>shadcn
+      <br>Shadcn
     </td>
      <td align="center" width="110" height="90">
       <a href="#d">
         <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="pinia" />
       </a>
-      <br>pinia
+      <br>Pinia
     </td>
      <td align="center" width="110" height="90">
       <a href="#d">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/axios/axios-plain.svg" width="36" height="36" alt="axios" />
       </a>
-      <br>axios
+      <br>Axios
     </td>
   </tr>
 </table>
@@ -162,34 +175,40 @@ Frontend Developer from Nikopol' ☄️
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
-      <a href="#d" >
+      <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
       </a>
       <br>Nest JS
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#d" >
+      <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="110" height="90">
-      <a href="#d" >
+      <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
     <td align="center" width="110" height="90">
-      <a href="#d" >
+      <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
      <td align="center" width="110" height="90"> 
-      <a href="#d" >
+      <a href="#debabin-stack" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
     </td>
   </tr> 
 </table>
